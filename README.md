@@ -11,4 +11,4 @@ should be able to:
 - Shorten any valid URL
 - Copy the shortened link to their clipboard in a single click
 
-Framework Used -  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span 
+Framework Used -  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span >
